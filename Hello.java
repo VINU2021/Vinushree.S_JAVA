@@ -1,7 +1,7 @@
-Package samplehello;
- Public class samplehello {
-   Public static void main (string[] args)
+package samplehello;
+ public class samplehello {
+   public static void main (String[] args)
    {
-     System.out.printin("hello");
+     System.out.println("hello world");
    }
 }
